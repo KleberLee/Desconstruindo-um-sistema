@@ -3,6 +3,7 @@
 **Gestão de Negócios de Streaming**
 
 Processos essenciais
+
 Mapear processos é o primeiro passo. Sem mapa, você reage a problemas em vez de preveni-los. Abaixo está um fluxo prático que funciona para a maioria dos negócios de streaming.
 
 1. Onboarding de conteúdo: organizar metadados, direitos e formatos para disponibilização rápida.
